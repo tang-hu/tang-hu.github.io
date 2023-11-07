@@ -9,6 +9,7 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 addapptr.com, 1d54d5d3f395ece125c9c4aeba5e5a32, DIRECT, b3bb5a9415a362a1
+google.com, pub-4397644604601927, RESELLER, f08c47fec0942fa0
 applovin.com, 39e6e7aabc46f8f763534f1e9d57ca4b, DIRECT
 pubnative.net, 1007988, RESELLER, d641df8625486a7b
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
