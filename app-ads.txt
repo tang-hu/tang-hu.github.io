@@ -88,3 +88,12 @@ sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 video.unrulymedia.com, 4201299756, RESELLER
 atasdigital.com, 504973, RESELLER
 outbrain.com, 00595a29fe0f0efa37cd675959d6128c78, RESELLER
+
+pubnative.net, 1007988, RESELLER, d641df8625486a7b
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+lkqd.net, 647, RESELLER, 59c49fa9598a0117
+lkqd.net, 654, RESELLER, 59c49fa9598a0117
+smaato.com, 1100041782, RESELLER, 07bcf65f187117b4
+openx.com, 540717823, RESELLER, 6a698e2ec38604c6
+media.net, 8CUVP72EO, RESELLER
+pubmatic.com, 158163, RESELLER, 5d62403b186f2ace
