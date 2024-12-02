@@ -31,6 +31,7 @@ betweendigital.com, 44977, RESELLER
 smartadserver.com, 4467, RESELLER
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+facebook.com, 2128665600765393, DIRECT, c3e20eee3f780d68
 onetag.com, 5d1628750185ace, RESELLER
 onetag.com, 72b20ec05ea6e86, DIRECT
 advertising.com, 28246, RESELLER
